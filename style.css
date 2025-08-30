@@ -25,7 +25,7 @@ body {
 #display {
   width: 100%;
   padding: 15px;
-  font-size: 3rem; /* Reduz para caber em telas pequenas */
+  font-size: 4rem; /* Reduz para caber em telas pequenas */
   text-align: left;
   border: none;
   background-color: hsl(0, 0%, 20%);
